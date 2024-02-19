@@ -1,5 +1,7 @@
+
+# Install all libraries by running in terminal: pip install -q -r ./requirements.txt
 import streamlit as st
-from langchain.embeddings.openai import OpenAIEmbeddings
+from langchain_openai import OpenAIEmbeddings
 from langchain.vectorstores import Chroma
 import os
 

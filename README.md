@@ -1,6 +1,10 @@
 # LLM-Powered-QA-app
 Large Language Model Application for Q&A for private documents using OpenAI, Pinecone and Langchain.
+
 Creation of a front end using Streamlit.
+
+**An OpenAI account and Key will be need to run the application.**
+
 
 For running the code first all dependencies need to be installed:
 ```

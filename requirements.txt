@@ -1,5 +1,6 @@
 openai
-langchain
+langchain==0.1.6
+langchain-community==0.0.19
 langchain_openai
 docx2txt
 pypdf

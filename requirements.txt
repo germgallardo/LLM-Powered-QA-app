@@ -1,7 +1,10 @@
 openai
 langchain
+langchain_openai
 docx2txt
 pypdf
 streamlit
 chromadb
 tiktoken
+pinecone-client
+python-dotenv
